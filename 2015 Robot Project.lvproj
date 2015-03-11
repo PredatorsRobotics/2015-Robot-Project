@@ -133,6 +133,7 @@ AddOutputFilter chunkFilter
 		</Item>
 		<Item Name="button.vi" Type="VI" URL="../CustomVIs/button.vi"/>
 		<Item Name="CameraServo.vi" Type="VI" URL="../CustomVIs/CameraServo.vi"/>
+		<Item Name="ElevatorCalibrate.vi" Type="VI" URL="../../2015-Sweeper-Robot/ElevatorCalibrate.vi"/>
 		<Item Name="ElevatorPositionPID.vi" Type="VI" URL="../CustomVIs/ElevatorPositionPID.vi"/>
 		<Item Name="PowerMonitoring.vi" Type="VI" URL="../CustomVIs/PowerMonitoring.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
