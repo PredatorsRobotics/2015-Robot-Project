@@ -133,7 +133,6 @@ AddOutputFilter chunkFilter
 		</Item>
 		<Item Name="button.vi" Type="VI" URL="../CustomVIs/button.vi"/>
 		<Item Name="CameraServo.vi" Type="VI" URL="../CustomVIs/CameraServo.vi"/>
-		<Item Name="ElevatorCalibrate.vi" Type="VI" URL="../../2015-Sweeper-Robot/ElevatorCalibrate.vi"/>
 		<Item Name="ElevatorPositionPID.vi" Type="VI" URL="../CustomVIs/ElevatorPositionPID.vi"/>
 		<Item Name="PowerMonitoring.vi" Type="VI" URL="../CustomVIs/PowerMonitoring.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
@@ -729,7 +728,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{980EAAB3-3632-4C6E-8261-281A41A3B1DC}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">60</Property>
+				<Property Name="Bld_version.build" Type="Int">61</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
